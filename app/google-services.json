@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "829379028465",
+    "firebase_url": "https://atm-hahow.firebaseio.com",
+    "project_id": "atm-hahow",
+    "storage_bucket": "atm-hahow.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:829379028465:android:ba359f09e85d8c5dbe1050",
+        "android_client_info": {
+          "package_name": "com.example.atm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "829379028465-sotivlv8d4rkc2am9lhka5a9iqsbdarl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.atm",
+            "certificate_hash": "850fddbb0776a87721877560180fb5ad4c7906d0"
+          }
+        },
+        {
+          "client_id": "829379028465-q3n89jr4fr80g2nhk8anlt2bc7t67i66.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvHaInQr2XQwNkLcalGIDJIGciVxXAtBM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "829379028465-q3n89jr4fr80g2nhk8anlt2bc7t67i66.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
